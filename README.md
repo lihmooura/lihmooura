@@ -1,6 +1,6 @@
 ### Hello! 👋
 <br>
-<p> My name is Elise and I am a front-end developer. </p>
+<p> My name is Elise and I am a web developer. </p>
 <br>
  <div>
   <a href="https://github.com/lihmooura">
