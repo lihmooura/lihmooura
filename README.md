@@ -1,5 +1,4 @@
-### 
-<h3><b>Hello and Welcome! 👋 </b></h3>
+### <h3><b>Hello and Welcome! 👋 </b></h3>
 
 <h5>My name is Elisiane and I am a web developer. </h5>
 
@@ -11,7 +10,7 @@
    • 📫 You can reach me: <a href = "mailto:lihmooura@gmail.com"> Email </a> || <a href="https://www.linkedin.com/in/elisiane-moura-80a9031a1/" target="_blank"> Linkedin </a>
 <br>
  <br>
- You can find some of my projects at my <a href="https://elisianemoura.com/" target="_blank"> portfólio </a> </h5>
+ You can find some of my projects at my <a href="https://elisianemoura.com/" target="_blank"> portfólio </a>. </h5>
 
 
 <br>
