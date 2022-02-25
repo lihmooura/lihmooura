@@ -1,8 +1,8 @@
 ### <h2><b>Hello and Welcome! 👋 </b></h2>
 
-<h4>My name is Elisiane and I am a web developer. </h4>
+<h3>My name is Elisiane and I am a web developer. </h3>
 
-<h5>Here are some things about me: 
+<h4>Here are some things about me: 
 <br>
  <br>
    • 💻 I am studying Computer Engineering at UNIVESP. <br>
@@ -10,7 +10,7 @@
    • 📫 You can reach me at: <a href = "mailto:lihmooura@gmail.com"> Email </a> || <a href="https://www.linkedin.com/in/elisiane-moura-80a9031a1/" target="_blank"> Linkedin </a>
 <br>
  <br>
- You can find some of my projects at my <a href="https://elisianemoura.com/" target="_blank"> portfólio </a>. </h5>
+ You can find some of my projects at my <a href="https://elisianemoura.com/" target="_blank"> portfólio </a>. </h4>
 
 
 <br>
