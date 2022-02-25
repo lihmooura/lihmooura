@@ -1,6 +1,19 @@
-### Hello! 👋
+### 
+<h3><b>Hello and Welcome! 👋 </b></h3>
+
+<h5>My name is Elisiane and I am a web developer. </h5>
+
+<h5>Here are some things about me: 
 <br>
-<p> My name is Elisiane and I am a web developer. </p>
+ <br>
+   • 💻 I am studying Computer Engineering at UNIVESP. <br>
+   • 🌱 I am learning Spanish. <br>
+   • 📫 You can reach me: <a href = "mailto:lihmooura@gmail.com"> Email </a> || <a href="https://www.linkedin.com/in/elisiane-moura-80a9031a1/" target="_blank"> Linkedin </a>
+<br>
+ <br>
+ You can find some of my projects at my <a href="https://elisianemoura.com/" target="_blank"> portfólio </a> </h5>
+
+
 <br>
  <div>
   <a href="https://github.com/lihmooura">
@@ -19,8 +32,6 @@
  
 <div> 
  
-  <a href = "mailto:lihmooura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/elisiane-moura-80a9031a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/lihmooura/lihmooura/blob/output/github-contribution-grid-snake.svg)
  
