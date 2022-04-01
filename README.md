@@ -5,8 +5,9 @@
 <h4>Here are some things about me: 
 <br>
  <br>
-   • 💻  <br>
+   • 💻 I am a computer engineering student.  <br>
    • 🌱 I am learning Spanish. <br>
+
    • 📫 You can reach me at: <a href = "mailto:lihmooura@gmail.com"> Email </a> || <a href="https://www.linkedin.com/in/elisiane-moura-80a9031a1/" target="_blank"> Linkedin </a>
 <br>
  <br>
