@@ -1,4 +1,4 @@
-### <h2><b>Hello and Welcome! 👋 </b></h2>
+### <h2><b>Hello! 👋 </b></h2>
 
 <h3>My name is Elisiane and I am a web developer. </h3>
 
@@ -7,7 +7,6 @@
  <br>
    • 💻 I am a computer engineering student.  <br>
    • 🌱 I am learning Spanish. <br>
-
    • 📫 You can reach me at: <a href = "mailto:lihmooura@gmail.com"> Email </a> || <a href="https://www.linkedin.com/in/elisiane-moura-80a9031a1/" target="_blank"> Linkedin </a>
 <br>
  <br>
