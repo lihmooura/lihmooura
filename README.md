@@ -1,6 +1,9 @@
 ### <h2><b>Hello! 👋 </b></h2>
 
-<h3>My name is Elisiane and I am a web developer. </h3>
+<h4>My name is Elisiane and I am a web developer. </h4>
+
+<h4>You can find some of my projects at my <a href="https://elisianemoura.com/" target="_blank"> portfólio </a>. </h4>
+
 <br>
 
  [![lihmooura](https://github-readme-stats.vercel.app/api/top-langs/?username=lihmooura&hide=html&layout=compact&theme=dark)](https://github.com/lihmooura/)
@@ -13,14 +16,8 @@
     <img align="center" alt="REACTJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">    
 </div>
-<br>
- 
-### You can find some of my projects at my <a href="https://elisianemoura.com/" target="_blank"> portfólio </a>. </h4>
+<br> 
 
-<br>
- 
-  ##
- 
 <div> 
  
  
