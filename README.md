@@ -20,9 +20,3 @@
 </div>
 <br> 
 
-<div> 
- 
- 
-  ![Snake animation](https://github.com/lihmooura/lihmooura/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
