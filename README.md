@@ -6,8 +6,6 @@
 
 <br>
 
-[![lihmooura](https://github-readme-stats.vercel.app/api/top-langs/?username=lihmooura&hide=html&layout=compact&theme=onedark)](https://github.com/lihmooura/)
-
 
  <div>
    <div style="display: inline_block"><br>
