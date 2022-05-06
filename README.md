@@ -2,7 +2,7 @@
 
 <h4>My name is Elisiane and I am a web developer. </h4>
 <br/>
-• 🔭 I’m currently working on my JavaScript/TypesScript skiils. <br/>
+• 🔭 I’m currently working on my JavaScript/TypesScript skills. <br/>
 • 🌱 I’m currently studying Spanish.<br/>
 • 👯 I’m looking to collaborate on ReactJs, VueJs, Java projects.<br/>
 • 📫 You can reach me: <a href="https://www.linkedin.com/in/elisiane-moura-80a9031a1/">Linkedin </a> | <a href="mailto:lihmooura@gmail.com"> Email </a><br/>
