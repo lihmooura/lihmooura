@@ -1,6 +1,6 @@
 ### <h2><b>Hello World! 👋 </b></h2>
 
-<h4>My name is Elisiane and I am a full stack developer. </h4>
+<h4>My name is Elisiane and I'm a full stack developer. </h4>
 <br/>
 • 🔭 I’m currently working on my Java skills. <br/>
 • 🌱 I’m currently studying Spanish.<br/>
