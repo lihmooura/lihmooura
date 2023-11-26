@@ -4,7 +4,7 @@
 <br/>
 • 🔭 I’m currently working on my Java and React skills. <br/>
 • 🌱 I’m currently studying Spanish.<br/>
-• 👯 I’m looking to collaborate on PHP and Java open source projects.<br/>
+• 👯 I’m looking to collaborate on React and Java open source projects.<br/>
 • 📫 You can reach me: <a href="https://www.linkedin.com/in/elisiane-moura-80a9031a1/">Linkedin </a> | <a href="mailto:lihmooura@gmail.com"> Email </a><br/>
 • ⚡ You can see some of my projects on my <a href="https://portfolio-elisiane-moura.web.app/" target="_blank"> portfólio </a>. 
 <br/>
